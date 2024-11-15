@@ -17,7 +17,9 @@ public class Persona {
     }
     
     
-            
+     public String getNome(String nome){
+         return this.nome;
+     }       
     
     
     
